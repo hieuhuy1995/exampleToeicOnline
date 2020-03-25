@@ -18,6 +18,7 @@
         <module>toeic-core-serviec-impl</module>
         <module>toeic-core-dao</module>
         <module>toeic-core-utils</module>
+        <module>toeic-core-persistence-data</module>
     </modules>
 
 </project>
